@@ -1,0 +1,6 @@
+name: telegram-bot-env
+channels:
+  - conda-forge
+dependencies:
+  - python-telegram-bot
+  - python=3.8
